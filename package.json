@@ -1,0 +1,26 @@
+{
+  "name": "wa.exe",
+  "version": "1.0.0v",
+  "description": "wa.exe exploit bot - The gateway to the cyber world.👾",
+  "main": "./wa.exe/exploit.js",
+  "scripts": {
+    "start": "supervisor -s exploit.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dinaaofficial/wa.exe.git"
+  },
+  "keywords": [
+    "whatsapp, spam, virus, bug, whatsapp, whatsapp-bot, wabot, waexe"
+  ],
+  "author": "Mr. Dina",
+  "developer": "AN Tech",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Dinaaofficial/wa.exe/issues"
+  },
+  "homepage": "https://github.com/Dinaaofficial/wa.exe#readme",
+  "dependencies": {
+    "wa-exe-public" :"1.0.0"
+  }
+}
