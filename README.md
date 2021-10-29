@@ -38,7 +38,7 @@
 ╚═╝░░╚═╝╚═╝╚═╝░░╚══╝╚═╝░░░╚═╝░░░╚══════╝░╚════╝░╚═╝░░╚═╝
 
   <p align="center">
-  <a href="https://github.com/AN-Tech-Crew/wa.exe-BETA"><img src="https://i.pinimg.com/originals/4c/35/68/4c3568a576e10e2b8c4ab1a1a4e911dd.gif" alt="GIF" width="400" height="600"/>
+  <a href="https://github.com/AN-Tech-Crew/wa.exe-BETA"><img src="https://gifimage.net/wp-content/uploads/2017/07/hacked-gif-15.gif" alt="GIF" width="600" height="400"/>
 </p></a>
 	
 > wє αrє αnσnчmσus.🎭 wє αrє lєgíσn.👮🏻‍♂ wє dσ nσt fσrgívє.😼 wє dσ nσt fσrgєt.💀 єхpєct us. ⛓💎
