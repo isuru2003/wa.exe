@@ -54,8 +54,13 @@
 </div>
 
 
- ## F.A.Q📌
- <b>Answer a few frequently asked questions;</b>
+  <h1><b>Qʀ ɢᴇɴᴀʀᴀᴛᴏʀ. :</h1></b>
+
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@BlackAmda/Queen-Amdi-QR)
+
+
+## F.A.Q📌
+b>Answer a few frequently asked questions;</b>
     
 ### Can you read my messages?🤔
 This project is open source so all the codes are clear. Neither less nor more; you can look what you want. **We absolutely do not have access to your accounts.**
