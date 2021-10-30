@@ -37,9 +37,7 @@
 ██║░░██║██╗██║░╚███║██╗░░░██║░░░███████╗╚█████╔╝██║░░██║
 ╚═╝░░╚═╝╚═╝╚═╝░░╚══╝╚═╝░░░╚═╝░░░╚══════╝░╚════╝░╚═╝░░╚═╝
 
-  <p align="center">
-  <a href="https://github.com/AN-Tech-Crew/wa.exe-BETA"><img src="https://gifimage.net/wp-content/uploads/2017/07/hacked-gif-15.gif" alt="GIF" width="600" height="400"/>
-</p></a>
+
 	
 > wє αrє αnσnчmσus.🎭 wє αrє lєgíσn.👮🏻‍♂ wє dσ nσt fσrgívє.😼 wє dσ nσt fσrgєt.💀 єхpєct us. ⛓💎
 >	
