@@ -74,21 +74,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 										<tbody>
 											<tr>
 												<td><a href="httsp://github.com/BlackAmda/"><img src="https://amdaniwasa.com/images/AMDA.jpg" width="100" height="100" alt="Black Amda"></a></td>
-												<td><a href="https://www.instagram.com/sinhalaya_official_/"><img src="https://amdaniwasa.com/images/SASMITHA.jpg" width="100" height="100" alt="sᴀsᴍɪᴛʜᴀ"></a></td>
-												<td><a href="https://www.instagram.com/saji_x.x_4/"><img src="https://amdaniwasa.com/images/SAJI.jpg" width="100" height="100" alt="ʟɪʟ ʟᴜᴢɪ"></a></td>
-												<td><a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ"><img src="https://amdaniwasa.com/images/JOKA TAMAH.jpg" width="100" height="100" alt="ᴊᴏᴋᴀ ᴛᴀᴍᴀ"></a></td>
-												<td><a href="https://dinaaofficial.github.io/dina-official/"><img src="https://amdaniwasa.com/images/DINA.jpg" width="100" height="100" alt="ᴍʀ.ᴅɪɴᴀ"></a></td>
-											</tr>
-											<tr>
-												<td><a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ">ʙʟᴀᴄᴋ ᴀᴍᴅᴀ</a></td>
-												<td><a href="https://www.instagram.com/sinhalaya_official_/">sᴀsᴍɪᴛʜᴀ</a></td>
-												<td><a href="https://www.instagram.com/saji_x.x_4/">ʟɪʟ ʟᴜᴢɪ</a></td>
-												<td><a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ">ᴊᴏᴋᴀ ᴛᴀᴍᴀʜ</a></td>
-												<td><a href="https://www.instagram.com/dinaa__official_/">ᴍʀ.ᴅɪɴᴀ</a></td>
-										</tbody>
-									</table>
-                  <table>
-										<tbody>
+												<td><a 										<tbody>
 											<tr>
 												<td><a href="httsp://github.com/BlackAmda/"><img src="https://amdaniwasa.com/images/KAPAYA.jpg" width="100" height="100" alt="ᴋᴀᴘᴀʏᴀ"></a></td>
 												<td><a href="https://www.thinknfree.com/"><img src="https://amdaniwasa.com/images/ZEUS.jpg" width="100" height="100" alt="ᴢᴇᴜs"></a></td>
@@ -96,10 +82,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 												<td><a href="httsp://github.com/BlackAmda/"><img src="https://amdaniwasa.com/images/SAIKO.jpg" width="100" height="100" alt="sɪɢᴇᴅᴇʀɪᴇɴ"></a></td>
 											</tr>
 											<tr>
-												<td><a href="https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ">ᴋᴀᴘᴀʏᴀ</a></td>
+												<td><a hr
 												<td><a href="https://www.thinknfree.com/">ᴢᴇᴜs</a></td>
-												<td><a href="httsp://github.com/BlackAmda/">ᴢᴇʏʀᴇX</a></td>
-												<td><a href="httsp://github.com/BlackAmda/">sɪɢᴇᴅᴇʀɪᴇɴ</a></td>
+												<td><a href="httsp://github.com/isuru2003/">ᴢᴇʏʀᴇX</a></td>
+												<td><a href="httsp://github.com/isuru2003/">sɪɢᴇᴅᴇʀɪᴇɴ</a></td>
 										</tbody>
 									</table>
     
