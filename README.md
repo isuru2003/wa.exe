@@ -56,7 +56,7 @@
 
   <h1><b>Qʀ ɢᴇɴᴀʀᴀᴛᴏʀ. :</h1></b>
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@BlackAmda/Queen-Amdi-QR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DarkWinzo/Wa-Bot-QR)
 
 
 ## F.A.Q📌
