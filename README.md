@@ -41,7 +41,7 @@
 
 <div align="center">
   <h1><b>ɪɴꜱᴛᴀʟʟ ᴛʜᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ. :</h1></b>
-	<a href="https://heroku.com/deploy?template=https://github.com/Technical-Hacking-Team/wa.exe-BETA">	
+	<a href="https://heroku.com/deploy?template=https://github.com/AN-Tech-crew/wa.exe-BETA">	
 <img src="https://i.ibb.co/xSs5bQN/WABOT-NSTALL.png" width="400"></br></a>
 </div>
 
