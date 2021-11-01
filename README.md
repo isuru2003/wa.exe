@@ -5,7 +5,7 @@
 
   <p align="center">
 <img
-        src="https://readme-typing-svg.herokuapp.com?color=%23F70000&size=16&center=true&vCenter=true&multiline=true&lines=We+are+antech+crew+(Since+2016+%E0%A5%90)........"
+        src="https://readme-typing-svg.herokuapp.com?color=%23F70000&size=16&center=true&vCenter=true&multiline=true&lines=We+are+Technical+Hacking+Team+(Since+2021+%E0%A5%90)........"
             alt="Typing SVG"
         />
     </a> 
@@ -13,7 +13,7 @@
   <div align="left">  
 
  ```
-🐝⚖ α.η.тεcн cяεω ⚖🐝 - WA Explot Unit
+🖤∂αяк ωιηzσ вσт - WA Explot Unit
 @DarkWinzo
 @IsOfficial
 @IsuruLakshan
