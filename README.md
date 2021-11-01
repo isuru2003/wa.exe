@@ -56,7 +56,8 @@
 
   <h1><b>Qʀ ɢᴇɴᴀʀᴀᴛᴏʀ. :</h1></b>
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DarkWinzo/Wa-Bot-QR)
+
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@BlackAmda/Queen-Amdi-QR)
 
 
 ## F.A.Q📌
@@ -81,16 +82,11 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 <table>
 										<tbody>
 											<tr>
-												<td><a href="httsp://github.com/BlackAmda/"><img src="https://amdaniwasa.com/images/AMDA.jpg" width="100" height="100" alt="Black Amda"></a></td>
+												<td><a href="httsp://github.com/isuru2003/"><img src="https://amdaniwasa.com/images/AMDA.jpg" width="100" height="100" alt="Black Amda"></a></td>
 												<td><a 										<tbody>
 											<tr>
-												<td><a href="httsp://github.com/BlackAmda/"><img src="https://amdaniwasa.com/images/KAPAYA.jpg" width="100" height="100" alt="ᴋᴀᴘᴀʏᴀ"></a></td>
-												<td><a href="https://www.thinknfree.com/"><img src="https://amdaniwasa.com/images/ZEUS.jpg" width="100" height="100" alt="ᴢᴇᴜs"></a></td>
-												<td><a href="httsp://github.com/BlackAmda/"><img src="https://amdaniwasa.com/images/ZEYREX.jpg" width="100" height="100" alt="ZEYREX"></a></td>
-												<td><a href="httsp://github.com/BlackAmda/"><img src="https://amdaniwasa.com/images/SAIKO.jpg" width="100" height="100" alt="sɪɢᴇᴅᴇʀɪᴇɴ"></a></td>
-											</tr>
-											<tr>
-												<td><a hr
+												<td><a href="httsp://github.com/isuru2003/"><img src="https://amdaniwasa.com/images/KAPAYA.jpg" width="100" height="100" alt="ᴋᴀᴘᴀʏᴀ"></a></td>
+												<td><a 												<td><a hr
 												<td><a href="https://www.thinknfree.com/">ᴢᴇᴜs</a></td>
 												<td><a href="httsp://github.com/isuru2003/">ᴢᴇʏʀᴇX</a></td>
 												<td><a href="httsp://github.com/isuru2003/">sɪɢᴇᴅᴇʀɪᴇɴ</a></td>
