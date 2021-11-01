@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://i.ibb.co/4SBckbV/LOGO.jpg" width="300" height="300">
-  <h1>🎲 ɯα.ҽχҽ > αɳ𝜏ҽ𝓬ԋ 💀</h1>
+  <h1>🎲 ɯα.ҽχҽ > тє¢нηι¢αℓ нα¢кєя 💀</h1>
 </div>
 
   <p align="center">
